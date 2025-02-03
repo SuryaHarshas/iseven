@@ -1,6 +1,6 @@
 {
   "name": "evennumberornot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "even",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuryaHarshas/iseven.giy.git"
+    "url": "git+https://github.com/SuryaHarshas/iseven.git"
   },
   "keywords": [
     "even"
   ],
   "author": "surya",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SuryaHarshas/iseven.giy/issues"
-  },
-  "homepage": "https://github.com/SuryaHarshas/iseven.giy#readme"
+  "license": "ISC"
 }
